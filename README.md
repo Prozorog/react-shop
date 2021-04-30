@@ -1,3 +1,3 @@
 # Проект React Movies
 
-Рабочую версию приложения можно посмотреть на [GitHub Pages](https://prozorog.github.io/react-shop/).
+Рабочую версию приложения можно посмотреть на [Demo](https://prozorog.github.io/react-shop/).
