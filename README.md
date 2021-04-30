@@ -1,3 +1,3 @@
-# Проект React Movies для курса React с нуля для начинающих 
+# Проект React Movies React 
 
 Рабочую версию приложения можно посмотреть на [GitHub Pages](https://prozorog.github.io/react-shop/).
